@@ -1,0 +1,26 @@
+{
+  "name": "No Youtube Reccomendations",
+
+  "version": "1.1",
+
+  "description": "Remove YouTube homepage related videos feed, recommended sidebar, user comments. it is usefull to help you focus in your work",
+
+  "manifest_version": 3,
+  "incognito": "split",
+
+  "action": {
+    "default_popup": "index.html"
+  },
+
+  "permissions": [ "storage"
+
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/*"],
+      "js": ["main.js"]
+    }
+  ]
+
+
+}
