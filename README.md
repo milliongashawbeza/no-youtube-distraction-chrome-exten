@@ -1,2 +1,6 @@
-# no-youtube-distraction-chrome-exten
+# no-youtube-distraction-chrome-extension 
 Just focus on your video , hide all youtube distraction , comment , feeds , recomendations.  
+
+Hide anything except your video . 
+
+Simple and effective chrome extension . 
