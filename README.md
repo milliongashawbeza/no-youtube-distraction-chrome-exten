@@ -4,3 +4,5 @@ Just focus on your video , hide all youtube distraction , comment , feeds , reco
 Hide anything except your video . 
 
 Simple and effective chrome extension . 
+
+#toggle on and off to change No Distraction Mode . 
